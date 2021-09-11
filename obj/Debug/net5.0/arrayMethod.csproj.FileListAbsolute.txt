@@ -1,0 +1,16 @@
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\bin\Debug\net5.0\arrayMethod.exe
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\bin\Debug\net5.0\arrayMethod.deps.json
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\bin\Debug\net5.0\arrayMethod.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\bin\Debug\net5.0\arrayMethod.runtimeconfig.dev.json
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\bin\Debug\net5.0\arrayMethod.dll
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\bin\Debug\net5.0\ref\arrayMethod.dll
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\bin\Debug\net5.0\arrayMethod.pdb
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\obj\Debug\net5.0\arrayMethod.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\obj\Debug\net5.0\arrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\obj\Debug\net5.0\arrayMethod.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\obj\Debug\net5.0\arrayMethod.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\obj\Debug\net5.0\arrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\obj\Debug\net5.0\arrayMethod.dll
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\obj\Debug\net5.0\ref\arrayMethod.dll
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\obj\Debug\net5.0\arrayMethod.pdb
+C:\Users\talha\OneDrive\Masaüstü\arrayMethod\obj\Debug\net5.0\arrayMethod.genruntimeconfig.cache
